@@ -13,7 +13,6 @@
 //= require jquery2
 //= require materialize
 //= require jquery_ujs
-//= require turbolinks
 //= require_tree .
 
 
