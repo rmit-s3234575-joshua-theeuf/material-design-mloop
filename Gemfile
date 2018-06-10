@@ -55,4 +55,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 #other gems.
-gem ‘materialize-sass’ 
+gem 'materialize-sass', '~> 0.96.1'
