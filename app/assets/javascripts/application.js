@@ -14,8 +14,3 @@
 //= require materialize
 //= require jquery_ujs
 //= require_tree .
-
-
-$(document).ready(function(){
-  $('.sidenav').sidenav();
-});
